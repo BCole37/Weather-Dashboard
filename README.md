@@ -30,4 +30,4 @@ icons https://img.icons8.com/
 (./images/ScreenshotforREADME)
 
 # Links
-[Link to the website](https://bcole37.github.io/Work-Scheduler/)
+[Link to the website](https://bcole37.github.io/Weather-Dashboard/)
