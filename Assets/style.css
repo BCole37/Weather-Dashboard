@@ -1,0 +1,39 @@
+
+.col-2{
+ padding: 20px;
+ margin-left: 20px;
+ background-color:rgb(62, 102, 233);
+}
+
+.col-3{
+padding-left: 40px;
+margin-bottom: 40px;
+}
+.col-8{
+ margin-top: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgb(62, 102, 233);
+  color: white;
+}
+
+
+.green{
+    background-color: green;
+    color:  white;
+
+}
+.yellow{
+    background-color: yellow;
+   }
+.orange{
+    background-color: orange;
+
+}
+  .red{
+    background-color: red;
+    color:  white;
+
+}
